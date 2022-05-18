@@ -1,0 +1,1492 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sockscap64 1.0\n"
+"POT-Creation-Date: 2017-01-21 17:12+0800\n"
+"PO-Revision-Date: 2017-01-21 17:12+0800\n"
+"Last-Translator: sockscap64@gmail.com\n"
+"Language-Team: Taro Lab <sockscap64@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../../sockscap64\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: GBK\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: AboutDlg.cpp:52 sockscap64Dlg.cpp:604
+msgid "About SocksCap64"
+msgstr ""
+
+#: Configure/PropertyConfigureSheet.cpp:56
+msgid "System settings"
+msgstr ""
+
+#: Configure/PropertyConfigureSheet.cpp:57
+msgid "Network Rule"
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:67 Configure/ProxyRuleAddDlg.cpp:71
+#: MyMenus.cpp:214 sockscap64Dlg.cpp:551
+msgid "Proxy"
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:69 Configure/ProxyRuleAddDlg.cpp:72
+msgid "Direct"
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:71 Configure/ProxyRuleAddDlg.cpp:73
+msgid "Block"
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:73 proxy/proxy.cpp:154
+msgid "Unknown"
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:95 Configure/PropertyNetworkPage.cpp:101
+#: Configure/PropertyNetworkPage.cpp:362 Configure/PropertyNetworkPage.cpp:368
+msgid "All"
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:118
+msgid "Rule Name"
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:119
+msgid "Target Hosts"
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:120
+msgid "Target Ports"
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:121 sockscap64Dlg.cpp:446
+msgid "Action"
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:123
+msgid "There are no rules to show in this view."
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:127
+msgid "Use check boxes to enable/disable a rule."
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:128 MyMenus.cpp:621
+msgid "Add..."
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:129 MyMenus.cpp:622
+msgid "Edit..."
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:130 MyMenus.cpp:623
+msgid "Remove"
+msgstr ""
+
+#: Configure/PropertyNetworkPage.cpp:131
+msgid ""
+"Rules are processed from top to bottom. Use the arrows at the right to "
+"change the order."
+msgstr ""
+
+#: Configure/PropertySystemPage.cpp:67
+msgid "Run at system startup"
+msgstr ""
+
+#: Configure/PropertySystemPage.cpp:68
+msgid "Resolve all names local"
+msgstr ""
+
+#: Configure/PropertySystemPage.cpp:69
+msgid "Resolve all names remote"
+msgstr ""
+
+#: Configure/PropertySystemPage.cpp:70
+msgid "Attempt Local Then Remote"
+msgstr ""
+
+#: Configure/PropertySystemPage.cpp:71
+msgid "DNS Name Resolving"
+msgstr ""
+
+#: Configure/PropertySystemPage.cpp:72
+msgid "Interface Language:"
+msgstr ""
+
+#: Configure/PropertySystemPage.cpp:77
+msgid "Auto login when refresh online socks"
+msgstr ""
+
+#: Configure/PropertySystemPage.cpp:111
+msgid "Change language need restart SocksCap64 to take effect."
+msgstr ""
+
+#: Configure/ProxyRuleAddDlg.cpp:60
+msgid "Add Rule"
+msgstr ""
+
+#: Configure/ProxyRuleAddDlg.cpp:61
+msgid "Name:"
+msgstr ""
+
+#: Configure/ProxyRuleAddDlg.cpp:62
+msgid "Enabled"
+msgstr ""
+
+#: Configure/ProxyRuleAddDlg.cpp:63
+msgid "Target hosts"
+msgstr ""
+
+#: Configure/ProxyRuleAddDlg.cpp:64
+msgid ""
+"Seperate by semicolon. empty mean all. Example: "
+"127.0.0.1;10.0.0.1-10.0.0.100;baidu.com"
+msgstr ""
+
+#: Configure/ProxyRuleAddDlg.cpp:65
+msgid "Target ports"
+msgstr ""
+
+#: Configure/ProxyRuleAddDlg.cpp:66
+msgid "Seperate by semicolon. empty mean all. Example: 139;8000-8010;"
+msgstr ""
+
+#: Configure/ProxyRuleAddDlg.cpp:67
+msgid "Action:"
+msgstr ""
+
+#: Configure/ProxyRuleAddDlg.cpp:68 NewAppProfile.cpp:93
+#: programs_selector/ProgramsSelector.cpp:99 ss/AddSSFromJsonDlg.cpp:186
+#: ss/AddSSFromLink.cpp:88
+msgid "OK"
+msgstr ""
+
+#: Configure/ProxyRuleAddDlg.cpp:69 NewAppProfile.cpp:94
+#: programs_selector/ProgramsSelector.cpp:100 proxy/ProxyMgrDlg.cpp:98
+#: userlogin/UserLogin.cpp:84
+msgid "Cancel"
+msgstr ""
+
+#: Configure/ProxyRuleAddDlg.cpp:100
+#, c-format
+msgid "New Rule%d"
+msgstr ""
+
+#: Configure/ProxyRuleAddDlg.cpp:116
+msgid "The same rules already exist"
+msgstr ""
+
+#: ConnectionsMgr/connection_mgr.cpp:330
+msgid "Connecting"
+msgstr ""
+
+#: ConnectionsMgr/connection_mgr.cpp:333
+msgid "Closed"
+msgstr ""
+
+#: ConnectionsMgr/connection_mgr.cpp:335
+msgid "Transferring"
+msgstr ""
+
+#: DialogAttachToProcess.cpp:48
+msgid "Process Name"
+msgstr ""
+
+#: DialogAttachToProcess.cpp:49
+msgid "Process ID"
+msgstr ""
+
+#: DialogAttachToProcess.cpp:52
+msgid "Attach to Process"
+msgstr ""
+
+#: DialogAttachToProcess.cpp:53
+msgid "Attach"
+msgstr ""
+
+#: DonateDialog.cpp:39
+msgid "WeChat"
+msgstr ""
+
+#: DonateDialog.cpp:40
+msgid "Alipay"
+msgstr ""
+
+#: DonateDialog.cpp:41
+msgid "Paypal"
+msgstr ""
+
+#: DonateDialog.cpp:47
+msgid "Scan QR code to Donate with WeChat"
+msgstr ""
+
+#: DonateDialog.cpp:50
+msgid "Scan QR code to Donate with Alipay"
+msgstr ""
+
+#: DonateDialog.cpp:53
+msgid "Click below button to donate with Paypal"
+msgstr ""
+
+#: DonateDialog.cpp:55
+msgid ""
+"So, if you think that SocksCap64 is good, please  give me financial support "
+"then i could working at this project continuative."
+msgstr ""
+
+#: DonateDialog.cpp:57
+msgid "Donate with Paypal"
+msgstr ""
+
+#: MyMenus.cpp:170
+msgid "No Proxy"
+msgstr ""
+
+#: MyMenus.cpp:202 MyMenus.cpp:207
+msgid "No Application"
+msgstr ""
+
+#: MyMenus.cpp:231
+msgid "System wide proxy"
+msgstr ""
+
+#: MyMenus.cpp:239 MyMenus.cpp:463 sockscap64Dlg.cpp:555 sockscap64Dlg.cpp:857
+msgid "Help"
+msgstr ""
+
+#: MyMenus.cpp:249 MyMenus.cpp:488
+msgid "Disable SocksCap64 Temporarily"
+msgstr ""
+
+#: MyMenus.cpp:251
+msgid "Show SocksCap64..."
+msgstr ""
+
+#: MyMenus.cpp:252 sockscap64Dlg.cpp:557
+msgid "Exit"
+msgstr ""
+
+#: MyMenus.cpp:272
+msgid "Enable system proxy"
+msgstr ""
+
+#: MyMenus.cpp:278
+msgid "Global mode"
+msgstr ""
+
+#: MyMenus.cpp:279
+msgid "PAC mode (Skip all chinese websites)"
+msgstr ""
+
+#: MyMenus.cpp:282
+msgid "Edit domain blacklist"
+msgstr ""
+
+#: MyMenus.cpp:326
+msgid "Register SocksCap64 Account"
+msgstr ""
+
+#: MyMenus.cpp:327
+msgid "Show Purchase Info..."
+msgstr ""
+
+#: MyMenus.cpp:340 MyMenus.cpp:412
+msgid "Small Icons"
+msgstr ""
+
+#: MyMenus.cpp:341 MyMenus.cpp:413 MyMenus.cpp:416 sockscap64Dlg.cpp:554
+msgid "List"
+msgstr ""
+
+#: MyMenus.cpp:342 MyMenus.cpp:414
+msgid "Details"
+msgstr ""
+
+#: MyMenus.cpp:365 MyMenus.cpp:394
+msgid "Add an executable file..."
+msgstr ""
+
+#: MyMenus.cpp:366
+msgid "Import web browser"
+msgstr ""
+
+#: MyMenus.cpp:367 MyMenus.cpp:395
+msgid "Attach to Process..."
+msgstr ""
+
+#: MyMenus.cpp:369 MyMenus.cpp:401
+msgid "Modify..."
+msgstr ""
+
+#: MyMenus.cpp:370 MyMenus.cpp:402
+msgid "Delete"
+msgstr ""
+
+#: MyMenus.cpp:371 MyMenus.cpp:398
+msgid "Delete all programs"
+msgstr ""
+
+#: MyMenus.cpp:390
+msgid "Run selected program in tunnel"
+msgstr ""
+
+#: MyMenus.cpp:392
+msgid "Create SC64 shortcut at desktop"
+msgstr ""
+
+#: MyMenus.cpp:396
+msgid "Programs selector..."
+msgstr ""
+
+#: MyMenus.cpp:397
+msgid "Import Web Browser"
+msgstr ""
+
+#: MyMenus.cpp:411
+msgid "Large Icons"
+msgstr ""
+
+#: MyMenus.cpp:433
+msgid "Close Connection"
+msgstr ""
+
+#: MyMenus.cpp:452
+msgid "Close Process"
+msgstr ""
+
+#: MyMenus.cpp:467
+msgid "Contact me..."
+msgstr ""
+
+#: MyMenus.cpp:468
+msgid "Feedback..."
+msgstr ""
+
+#: MyMenus.cpp:472 sockscap64Dlg.cpp:646
+msgid "About SocksCap64..."
+msgstr ""
+
+#: MyMenus.cpp:497
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: MyMenus.cpp:498
+msgid "Clear"
+msgstr ""
+
+#: MyMenus.cpp:507
+msgid "Add shadowsocks server from qrcode"
+msgstr ""
+
+#: MyMenus.cpp:508
+msgid "Add shadowsocks server from json"
+msgstr ""
+
+#: MyMenus.cpp:509
+msgid "Add shadowsocks server from ss-link"
+msgstr ""
+
+#: NewAppProfile.cpp:88 sockscap64Dlg.cpp:827
+msgid "New Application Profile"
+msgstr ""
+
+#: NewAppProfile.cpp:89
+msgid "Profile Name:"
+msgstr ""
+
+#: NewAppProfile.cpp:90
+msgid "Command Line:"
+msgstr ""
+
+#: NewAppProfile.cpp:91
+msgid "Work Directory:"
+msgstr ""
+
+#: NewAppProfile.cpp:92
+msgid "Start Params:"
+msgstr ""
+
+#: NewAppProfile.cpp:95
+msgid "Browse..."
+msgstr ""
+
+#: PacEditorDialog.cpp:52
+msgid "Edit domain blacklist, per domain per line."
+msgstr ""
+
+#: PacEditorDialog.cpp:53 proxy/ProxyCheckerSetting.cpp:57
+#: proxy/ProxyMgrDlg.cpp:97
+msgid "Save"
+msgstr ""
+
+#: PROCES~2.CPP:86 PROCES~2.CPP:108 Process.cpp:102
+#, c-format
+msgid ""
+"Program [%s] can not run in tunnel,The requested operation requires "
+"elevation. please run SocksCap64 as administrator mode to retry."
+msgstr ""
+
+#: PROCES~2.CPP:88 PROCES~2.CPP:110 Process.cpp:104
+#, c-format
+msgid ""
+"Program [%s] can not run in tunnel, maybe you could run as administrator "
+"mode to retry.\r\n"
+"btw: Is it an advertised shortcut?(an advertised shortcut can't run in "
+"tunnel.)"
+msgstr ""
+
+#: ProgramContainer.cpp:216
+#, c-format
+msgid "%s already exist."
+msgstr ""
+
+#: ProgramContainer.cpp:413
+msgid ""
+"An advertised(Windows Installer) shortcut can not run in tunnel.\r\n"
+"An advertised shortcut (Windows Installer Shortcuts) is a technology "
+"specific to Windows Installer. If you right-click an advertised shortcut the "
+"target field will be greyed out."
+msgstr ""
+
+#: ProgramContainer.cpp:499
+#, c-format
+msgid "Invalid file or unsupported file type %s."
+msgstr ""
+
+#: ProgramContainer.cpp:679
+msgid "No SOCKS Proxy is set."
+msgstr ""
+
+#: ProgramContainer.cpp:689
+msgid "No active SOCKS Proxy is set."
+msgstr ""
+
+#: ProgramContainer.cpp:700
+msgid "Local socks 5 service is stoped, so you can't use shadowsocks proxy."
+msgstr ""
+
+#: ProgramContainer.cpp:821 programs_selector/InstalledPrograms.cpp:84
+msgid "Access is denied. Run as administrator please!"
+msgstr ""
+
+#: ProxyToolbar.cpp:109
+msgid "Select/Change current proxy"
+msgstr ""
+
+#: ProxyToolbar.cpp:111
+msgid "Current Proxy:"
+msgstr ""
+
+#: ProxyToolbar.cpp:112
+msgid "Proxy Engine:"
+msgstr ""
+
+#: ProxyToolbar.cpp:118 ProxyToolbar.cpp:284
+msgid "Disable SC64: SC64 is working!"
+msgstr ""
+
+#: ProxyToolbar.cpp:126 proxy/TestingCurrentProxy.cpp:62
+msgid "Test current proxy server..."
+msgstr ""
+
+#: ProxyToolbar.cpp:165
+msgid "DLL Injection"
+msgstr ""
+
+#: ProxyToolbar.cpp:166
+msgid "Winsock LSP"
+msgstr ""
+
+#: ProxyToolbar.cpp:179
+msgid ""
+"DLL injection is used when you don't have the admin privileges. Some games "
+"will detect DLL injection as an attempt to hack and auto remove the "
+"injection code."
+msgstr ""
+
+#: ProxyToolbar.cpp:181
+msgid ""
+"You must have admin privileges to use LSP engine, and will install/remove a "
+"LSP protocol chain to your system automatically. Recommanded for game users."
+msgstr ""
+
+#: ProxyToolbar.cpp:282
+msgid "Disable SC64: Temporarily out of service!"
+msgstr ""
+
+#: SysWideProxy.cpp:17
+msgid "You have not add any proxy yet,so you can't enable system wide proxy."
+msgstr ""
+
+#: SysWideProxy.cpp:31
+msgid "Please activate a proxy first before enable system wide proxy."
+msgstr ""
+
+#: doingdlg/ResolveNSDialog.cpp:60
+msgid "SocksCap64 is resolving proxy domain..."
+msgstr ""
+
+#: doingdlg/ResolveNSDialog.cpp:61
+msgid ""
+"You had set a domain name in the address of the proxy, SocksCap64 is "
+"resolving proxy domain for you, the may take several seconds. "
+msgstr ""
+
+#: doingdlg/ResolveNSDialog.cpp:108
+#, c-format
+msgid "Resolve proxy domain to IP failure,code: %d."
+msgstr ""
+
+#: lib.cpp:396
+#, c-format
+msgid ""
+"%s only allow run one instance in system, the next instance will automatic "
+"exit.\r\n"
+"You must first close the previous instance(run from system) to take it "
+"effect.\r\n"
+"\r\n"
+"Are you sure to close the old instance?"
+msgstr ""
+
+#: lspinstall_helper.cpp:70
+msgid "Install Winsock LSP engine error."
+msgstr ""
+
+#: lspinstall_helper.cpp:81
+msgid ""
+"You must have admin privileges to use LSP engine. Run SocksCap64 as "
+"administrator please"
+msgstr ""
+
+#: lspinstall_helper.cpp:125
+msgid "UnInstall Winsock LSP engine error."
+msgstr ""
+
+#: lspinstall_helper.cpp:136
+msgid ""
+"You must have admin privileges to uninstall LSP engine. Run SocksCap64 as "
+"administrator please"
+msgstr ""
+
+#: programs_selector/ProgramsSelector.cpp:58
+msgid "Program Name"
+msgstr ""
+
+#: programs_selector/ProgramsSelector.cpp:59
+msgid "Program File"
+msgstr ""
+
+#: programs_selector/ProgramsSelector.cpp:62
+msgid "All Programs installed on your computer has been added to SocksCap64."
+msgstr ""
+
+#: programs_selector/ProgramsSelector.cpp:95
+#: programs_selector/ProgramsSelector.cpp:140
+#: programs_selector/ProgramsSelector.cpp:142
+#: programs_selector/ProgramsSelector.cpp:159
+#, c-format
+msgid "%d/%d Selected"
+msgstr ""
+
+#: programs_selector/ProgramsSelector.cpp:97
+msgid "Programs selector"
+msgstr ""
+
+#: programs_selector/ProgramsSelector.cpp:98
+msgid "Select All"
+msgstr ""
+
+#: programs_selector/ProgramsSelector.cpp:101
+msgid "Installed programs on your computer:"
+msgstr ""
+
+#: proxy/ProxyCheckerSetting.cpp:56
+msgid "Proxy Checker Settings"
+msgstr ""
+
+#: proxy/ProxyCheckerSetting.cpp:58
+msgid "Connection to Proxy Server"
+msgstr ""
+
+#: proxy/ProxyCheckerSetting.cpp:59
+msgid "Connection through Proxy Server"
+msgstr ""
+
+#: proxy/ProxyCheckerSetting.cpp:60
+msgid "Testing url for proxy availability:"
+msgstr ""
+
+#: proxy/ProxyCheckerSetting.cpp:61
+msgid "A Url start with http://"
+msgstr ""
+
+#: proxy/ProxyCheckerSetting.cpp:62
+msgid "Test Proxy server latency"
+msgstr ""
+
+#: proxy/ProxyCheckerSetting.cpp:64
+msgid "A DNS server for UDP Associate testing:"
+msgstr ""
+
+#: proxy/ProxyCheckerSetting.cpp:65
+msgid "A domain name for UDP Associate testing:"
+msgstr ""
+
+#: proxy/ProxyCheckerSetting.cpp:105 proxy/SocksProxyTesting.cpp:359
+msgid "Testing url for proxy availability can not empty."
+msgstr ""
+
+#: proxy/ProxyCheckerSetting.cpp:114
+msgid "Input or select a DNS server for UDP Associate testing please."
+msgstr ""
+
+#: proxy/ProxyCheckerSetting.cpp:119
+msgid "Input or select a domain name for UDP Associate testing please."
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:126
+msgid "There are no socks proxy to show in this view."
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:147
+msgid "Proxy Address"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:154
+msgid "Port"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:160
+msgid "Account"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:166 userlogin/UserLogin.cpp:81
+msgid "Password"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:179
+msgid "SOCKS Type"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:195
+msgid "Encryption method"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:200
+msgid "Status"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:205
+msgid "Latency"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:211
+msgid "Remarks"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:229
+msgid "Online VIP Socks"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:230
+msgid "Online PRO Socks"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:231
+msgid "Online Econ Socks"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:232
+msgid "Local Socks"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:446
+msgid "Expand group: "
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:451
+msgid "Collapse group: "
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:461 proxy/ProxyListCtrl.cpp:515
+msgid "Expand all groups"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:462 proxy/ProxyListCtrl.cpp:516
+msgid "Collapse all groups"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:465
+msgid "Test proxy through TCP under this groups"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:466
+msgid "Test proxy's UDP associate under this groups "
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:498 proxy/ProxyListCtrl.cpp:557
+#: proxy/ProxyMgrDlg.cpp:88
+msgid "Add a new proxy"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:499
+msgid "Test All proxy through TCP"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:500
+msgid "Test All proxy's UDP associate"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:501 proxy/ProxyMgrDlg.cpp:91
+msgid "Refresh proxy (Ignore all Change)"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:507 proxy/ProxyListCtrl.cpp:569
+msgid "Add a node from qrcode"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:508 proxy/ProxyListCtrl.cpp:570
+msgid "Add a node from json"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:509 proxy/ProxyListCtrl.cpp:571
+msgid "Add a node from ss-link"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:510 proxy/ProxyListCtrl.cpp:581
+msgid "Shadowsocks"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:558 proxy/ProxyMgrDlg.cpp:90
+#: proxy/ProxyMgrDlg.cpp:94
+msgid "Activate proxy"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:560 proxy/ProxyMgrDlg.cpp:89
+msgid "Delete selected proxy"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:562
+msgid "Test selected proxy through TCP"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:563
+msgid "Test UDP Associate of selected proxy"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:565
+msgid "Edit Cell"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:578
+msgid "Copy to json"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:579
+msgid "Copy to SS link"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:580
+msgid "Copy to Plain node info"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:857
+msgid "Click to Edit IP"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:906
+msgid ""
+"Please confirm you want to refresh the proxy list and ignore all updates?"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:914
+msgid "Are you confirm to delete the proxy that you have selected?"
+msgstr ""
+
+#: proxy/ProxyListCtrl.cpp:1529
+msgid "Testing"
+msgstr ""
+
+#: proxy/ProxyMgrDlg.cpp:92
+msgid "Test Settings"
+msgstr ""
+
+#: proxy/ProxyMgrDlg.cpp:93 proxy/ProxyMgrDlg.cpp:296
+msgid "Start Testing"
+msgstr ""
+
+#: proxy/ProxyMgrDlg.cpp:95
+msgid "For shadowsocks proxy"
+msgstr ""
+
+#: proxy/ProxyMgrDlg.cpp:100 sockscap64Dlg.cpp:833
+msgid "Proxy Manager"
+msgstr ""
+
+#: proxy/ProxyMgrDlg.cpp:116
+msgid "Proxy Loaded."
+msgstr ""
+
+#: proxy/ProxyMgrDlg.cpp:364
+msgid "Stop Testing"
+msgstr ""
+
+#: proxy/ProxyMgrDlg.cpp:443
+msgid "Are you sure to stop testing?"
+msgstr ""
+
+#: proxy/SocksProxy.cpp:55
+msgid "Unkown error."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:56 proxy/SocksProxyTesting.cpp:321
+msgid "Testing list is empty!"
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:62
+msgid "Previous Testing is still progress."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:105
+msgid "Start testing thread was failed."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:335
+msgid "Testing was failed (config error)."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:366 proxy/socks_test.cpp:340
+msgid "Testing started..."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:375 proxy/SocksProxyTesting.cpp:427
+#: proxy/SocksProxyTesting.cpp:444 proxy/SocksProxyTesting.cpp:482
+#: proxy/SocksProxyTesting.cpp:506 proxy/SocksProxyTesting.cpp:565
+#: proxy/SocksProxyTesting.cpp:584
+msgid "User cancelled testing."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:455 proxy/socks_test.cpp:93
+#, c-format
+msgid "Address: %s:%d"
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:459
+#, c-format
+msgid "Proxy type: %s"
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:463 proxy/socks_test.cpp:97
+#, c-format
+msgid "Username: %s"
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:463 proxy/SocksProxyTesting.cpp:466
+msgid "[empty]"
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:466
+#, c-format
+msgid "Password: %s"
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:471 proxy/socks_test.cpp:100
+msgid "Testing UDP Associate of proxy server..."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:490 proxy/socks_test.cpp:178
+msgid "Connecting to proxy server..."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:501 proxy/socks_test.cpp:188
+msgid "Connection established."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:533 proxy/socks_test.cpp:194
+msgid "Testing UDP Associate..."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:537 proxy/socks_test.cpp:196
+msgid "Testing Connection through the proxy server..."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:552 proxy/socks_test.cpp:216
+#, c-format
+msgid "Proxy server bound on %s:%d for udp relay."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:557 proxy/socks_test.cpp:247
+#, c-format
+msgid "Connection to %s established through the proxy server."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:561 proxy/socks_test.cpp:251
+msgid "Testing data transmission..."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:601 proxy/socks_test.cpp:407
+msgid "Testing proxy server latency..."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:623 proxy/socks_test.cpp:416
+#, c-format
+msgid "The network latency of %s was %dms."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:625 proxy/socks_test.cpp:414
+#, c-format
+msgid "The network latency of %s was <1ms."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:630
+msgid "Can not get the latency of proxy server."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:637 proxy/socks_test.cpp:428
+msgid "Testing Finished."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:661
+msgid "Sent data failure."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:665 proxy/socks_test.cpp:266
+#, c-format
+msgid "Sent: %d bytes"
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:678
+msgid "Received data failure."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:690
+#, c-format
+msgid "Got correct response (length: %d bytes)."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:696
+#, c-format
+msgid "Got %d bytes unrecognized data."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:732 proxy/socks_test.cpp:233
+msgid "The UDP transmission testing was successful."
+msgstr ""
+
+#: proxy/SocksProxyTesting.cpp:738 proxy/socks_test.cpp:237
+msgid "The UDP transmission testing was failed."
+msgstr ""
+
+#: proxy/TestingCurrentProxy.cpp:92
+msgid "No active proxy is set."
+msgstr ""
+
+#: proxy/proxy.cpp:146
+msgid "Local"
+msgstr ""
+
+#: proxy/proxy.cpp:148
+msgid "Online PRO"
+msgstr ""
+
+#: proxy/proxy.cpp:150
+msgid "Online Econ"
+msgstr ""
+
+#: proxy/proxy.cpp:152
+msgid "Online VIP"
+msgstr ""
+
+#: proxy/socks_test.cpp:95
+#, c-format
+msgid "Protocol: %d"
+msgstr ""
+
+#: proxy/socks_test.cpp:110 proxy/socks_test.cpp:353
+#, c-format
+msgid "Resolved proxy domain %s failed."
+msgstr ""
+
+#: proxy/socks_test.cpp:118 proxy/socks_test.cpp:360
+#, c-format
+msgid "Resolved proxy domain %s to %s."
+msgstr ""
+
+#: proxy/socks_test.cpp:127
+msgid "Socks 4/4a not support UDP Associate."
+msgstr ""
+
+#: proxy/socks_test.cpp:140
+msgid "Parse URL falure."
+msgstr ""
+
+#: proxy/socks_test.cpp:150
+msgid "Create socket falure."
+msgstr ""
+
+#: proxy/socks_test.cpp:170
+msgid "socket bind falure."
+msgstr ""
+
+#: proxy/socks_test.cpp:184
+msgid "Could not connect to proxy server!"
+msgstr ""
+
+#: proxy/socks_test.cpp:224
+msgid "Testing UDP data transmission..."
+msgstr ""
+
+#: proxy/socks_test.cpp:262
+msgid "Send data  failure."
+msgstr ""
+
+#: proxy/socks_test.cpp:279
+msgid "Recv data  failure."
+msgstr ""
+
+#: proxy/socks_test.cpp:283
+#, c-format
+msgid "Received: %d bytes"
+msgstr ""
+
+#: sockscap64.cpp:212
+msgid "Can not start local NS service."
+msgstr ""
+
+#: sockscap64Dlg.cpp:345
+msgid ""
+"Attention! \r\n"
+"\r\n"
+"You had configured system wide proxy, this may cause sockscap64 work "
+"abnormal.\r\n"
+"\r\n"
+"Need sockscap64 to disable it?"
+msgstr ""
+
+#: sockscap64Dlg.cpp:386
+msgid "Page is loading, please wait..."
+msgstr ""
+
+#: sockscap64Dlg.cpp:410
+msgid "Application Profile"
+msgstr ""
+
+#: sockscap64Dlg.cpp:411
+msgid "Program Path"
+msgstr ""
+
+#: sockscap64Dlg.cpp:412
+msgid "Command Arguments"
+msgstr ""
+
+#: sockscap64Dlg.cpp:413
+msgid "Last Run"
+msgstr ""
+
+#: sockscap64Dlg.cpp:414
+msgid "Work Directory"
+msgstr ""
+
+#: sockscap64Dlg.cpp:442 sockscap64Dlg.cpp:457
+msgid "Application"
+msgstr ""
+
+#: sockscap64Dlg.cpp:443
+msgid "Socket"
+msgstr ""
+
+#: sockscap64Dlg.cpp:444
+msgid "Protocol"
+msgstr ""
+
+#: sockscap64Dlg.cpp:445
+msgid "Target"
+msgstr ""
+
+#: sockscap64Dlg.cpp:447 sockscap64Dlg.cpp:461
+msgid "Sent"
+msgstr ""
+
+#: sockscap64Dlg.cpp:448 sockscap64Dlg.cpp:462
+msgid "Received"
+msgstr ""
+
+#: sockscap64Dlg.cpp:458
+msgid "PID"
+msgstr ""
+
+#: sockscap64Dlg.cpp:459
+msgid "32/64 bit"
+msgstr ""
+
+#: sockscap64Dlg.cpp:460 sockscap64Dlg.cpp:600
+msgid "Connections"
+msgstr ""
+
+#: sockscap64Dlg.cpp:549
+msgid "Run"
+msgstr ""
+
+#: sockscap64Dlg.cpp:550
+msgid "Apps"
+msgstr ""
+
+#: sockscap64Dlg.cpp:552 userlogin/UserLogin.cpp:79 userlogin/UserLogin.cpp:83
+msgid "Login"
+msgstr ""
+
+#: sockscap64Dlg.cpp:553 sockscap64Dlg.cpp:1403
+msgid "Configure"
+msgstr ""
+
+#: sockscap64Dlg.cpp:556
+msgid "Donate"
+msgstr ""
+
+#: sockscap64Dlg.cpp:591
+msgid "Programs Panel"
+msgstr ""
+
+#: sockscap64Dlg.cpp:593 sockscap64Dlg.cpp:2005
+#, c-format
+msgid "Connections (%d)"
+msgstr ""
+
+#: sockscap64Dlg.cpp:596 sockscap64Dlg.cpp:2033
+#, c-format
+msgid "Programs in Tunnel (%d)"
+msgstr ""
+
+#: sockscap64Dlg.cpp:601
+msgid "Programs in Tunnel"
+msgstr ""
+
+#: sockscap64Dlg.cpp:674 sockscap64Dlg.cpp:678 sockscap64Dlg.cpp:686
+#: sockscap64Dlg.cpp:688
+msgid "What is this?"
+msgstr ""
+
+#: sockscap64Dlg.cpp:821
+msgid "Run Programs"
+msgstr ""
+
+#: sockscap64Dlg.cpp:839
+msgid "Refresh Online Socks Proxy"
+msgstr ""
+
+#: sockscap64Dlg.cpp:845
+msgid "System Configure"
+msgstr ""
+
+#: sockscap64Dlg.cpp:851
+msgid "List Style"
+msgstr ""
+
+#: sockscap64Dlg.cpp:863
+msgid "Donate to support SocksCap64"
+msgstr ""
+
+#: sockscap64Dlg.cpp:870
+msgid "Exit SocksCap64"
+msgstr ""
+
+#: sockscap64Dlg.cpp:987
+msgid "SocksCap64 is minimized to system tray"
+msgstr ""
+
+#: sockscap64Dlg.cpp:988
+msgid "you can restore it with double-click or context menu"
+msgstr ""
+
+#: sockscap64Dlg.cpp:1221
+msgid ""
+"No Application is currently available in your app list. Do you want to "
+"import your web browser now?"
+msgstr ""
+
+#: sockscap64Dlg.cpp:1312
+msgid "Are you sure to delete all programs?"
+msgstr ""
+
+#: sockscap64Dlg.cpp:1359
+#, c-format
+msgid "User: %s"
+msgstr ""
+
+#: sockscap64Dlg.cpp:1360
+#, c-format
+msgid "Expiry date: %s"
+msgstr ""
+
+#: sockscap64Dlg.cpp:1871
+#, c-format
+msgid ""
+"New Version: %s\r\n"
+"Publish Date:%s\r\n"
+"\r\n"
+"Version Description:\r\n"
+"%s\r\n"
+"\r\n"
+"Update to new version now?"
+msgstr ""
+
+#: sockscap64Dlg.cpp:1873
+msgid "New Version is published."
+msgstr ""
+
+#: sockscap64Dlg.cpp:1927
+msgid "A package will be overdue."
+msgstr ""
+
+#: sockscap64Dlg.cpp:1933
+msgid "Some packages will be overdue."
+msgstr ""
+
+#: ss/AddSSFromJsonDlg.cpp:129
+msgid "Input shadowsocks server with json format please."
+msgstr ""
+
+#: ss/AddSSFromJsonDlg.cpp:136
+msgid "system error."
+msgstr ""
+
+#: ss/AddSSFromJsonDlg.cpp:157
+msgid ""
+"Json parsed error, please input shadowsocks server with right json format."
+msgstr ""
+
+#: ss/AddSSFromJsonDlg.cpp:184
+msgid "Add new shadowsocks server from json."
+msgstr ""
+
+#: ss/AddSSFromJsonDlg.cpp:185
+msgid "Input json format content below:"
+msgstr ""
+
+#: ss/AddSSFromJsonDlg.cpp:187
+msgid "Example..."
+msgstr ""
+
+#: ss/AddSSFromJsonDlg.cpp:219
+msgid "The example with right json format"
+msgstr ""
+
+#: ss/AddSSFromLink.cpp:55
+msgid "Input shadowsocks server link please."
+msgstr ""
+
+#: ss/AddSSFromLink.cpp:86
+msgid "Add new shadowsocks server from ss link."
+msgstr ""
+
+#: ss/AddSSFromLink.cpp:87
+msgid "Input some shadowsocks server link below( per ss link per line )"
+msgstr ""
+
+#: ss/SreenCaptureDlg.cpp:501
+#, c-format
+msgid ""
+"\r\n"
+"\r\n"
+" Current RGB  (%d,%d,%d)\r\n"
+msgstr ""
+
+#: ss/SreenCaptureDlg.cpp:505
+msgid ""
+"\r\n"
+" Press and drag your mouse to select\r\n"
+"\r\n"
+" Press ESC or right click to exit"
+msgstr ""
+
+#: ss/SreenCaptureDlg.cpp:511
+msgid ""
+"\r\n"
+" Release your mouse key to confirm selection\r\n"
+"\r\n"
+" Press ESC to exit"
+msgstr ""
+
+#: ss/SreenCaptureDlg.cpp:515
+msgid ""
+"\r\n"
+" Use left key to adjust selection\r\n"
+"\r\n"
+" Double click in selection to confirm and exit\r\n"
+"\r\n"
+" Right click to reselect"
+msgstr ""
+
+#: ss/SreenCaptureDlg.cpp:552 ss/SreenCaptureDlg.cpp:553
+#: ss/SreenCaptureDlg.cpp:590
+msgid "  Corner position  "
+msgstr ""
+
+#: ss/SreenCaptureDlg.cpp:599
+msgid "  Rectangle size  "
+msgstr ""
+
+#: ss/SreenCaptureDlg.cpp:607
+msgid "  Cursor position  "
+msgstr ""
+
+#: ss/SreenCaptureDlg.cpp:660
+#, c-format
+msgid " Pixel RGB  (%d,%d,%d)"
+msgstr ""
+
+#: userlogin/AccountInfoDlg.cpp:104
+msgid "Your purchases:"
+msgstr ""
+
+#: userlogin/UserLogin.cpp:78
+msgid "User Login"
+msgstr ""
+
+#: userlogin/UserLogin.cpp:80
+msgid "User Name"
+msgstr ""
+
+#: userlogin/UserLogin.cpp:82
+msgid "Register"
+msgstr ""
+
+#: userlogin/UserLogin.cpp:131 userlogin/UserLogin.cpp:161
+msgid "Login failed. 0x001"
+msgstr ""
+
+#: userlogin/UserLogin.cpp:148 userlogin/UserLogin.cpp:265
+msgid "SocksCap64 is signing in..."
+msgstr ""
+
+#: userlogin/UserLogin.cpp:153 userlogin/UserLogin.cpp:268
+msgid "Login failed, Connection Error."
+msgstr ""
+
+#: userlogin/UserLogin.cpp:174
+msgid "Login failed. 0x003"
+msgstr ""
+
+#: userlogin/UserLogin.cpp:200 userlogin/UserLogin.cpp:310
+msgid "Login failed, Data Error."
+msgstr ""
+
+#: userlogin/UserLogin.cpp:206 userlogin/UserLogin.cpp:316
+msgid "Logged in. SocksCap64 is refreshing proxy..."
+msgstr ""
+
+#: userlogin/UserLogin.cpp:239
+msgid "Login failed.0x004"
+msgstr ""
+
+#: userlogin/UserLogin.cpp:249 userlogin/UserLogin.cpp:276
+#: userlogin/UserLogin.cpp:293 userlogin/UserLogin.cpp:328
+msgid "Login failed."
+msgstr ""
+
+#: userlogin/UserLogin.cpp:359
+msgid "Input Username and Password please!"
+msgstr ""
+
+#: userlogin/login.cpp:130 userlogin/login.cpp:143 userlogin/login.cpp:154
+#: userlogin/login.cpp:190 userlogin/login.cpp:203 userlogin/login.cpp:214
+#: userlogin/login.cpp:224 userlogin/login.cpp:244 userlogin/login.cpp:256
+#: userlogin/login.cpp:267
+msgid "data error"
+msgstr ""
+
+#: userlogin/login.cpp:138 userlogin/login.cpp:198 userlogin/login.cpp:251
+msgid "data parse error"
+msgstr ""
+
+#~ msgid "Show Sockscap64..."
+#~ msgstr "Show Sockscap64..."
+
+#~ msgid "Register Sockscap64 Account"
+#~ msgstr "注册Sockscap64帐号"
+
+#~ msgid "About Sockscap64..."
+#~ msgstr "关于Sockscap64..."
+
+#~ msgid "Disable Sockscap64 Temporarily"
+#~ msgstr "暂时禁止Sockscap64功能"
+
+#~ msgid "Testing website for proxy availability"
+#~ msgstr "用于测试代理的网址"
+
+#~ msgid "Logged in. Sockscap64 is refreshing proxy..."
+#~ msgstr "登录成功. Sockscap64正在刷新代理..."
+
+#~ msgid "Refresh Proxy"
+#~ msgstr "刷新代理"
+
+#~ msgid "Sockscap64 Settings"
+#~ msgstr "配置Sockscap64"
+
+#~ msgid ""
+#~ "An advertised(Windows Installer) shortcut can not run in tunnel.\r\n"
+#~ "An advertised shortcut (Windows Installer Shortcuts) is a technology "
+#~ "specific to Windows Installer. If you right-click an advertised shortcut "
+#~ "the target field will be greyed out. An advertised shortcut supports "
+#~ "advertisement and repair."
+#~ msgstr ""
+#~ "一个广告(Windows安装程序)快捷方式不能运行于代理隧道.\r\n"
+#~ "一个广告快捷方式(Windows安装程序快捷方式) 是一个特定于Windows Installer的"
+#~ "术语. 如果你右击一个广告快捷方式你会发现它的目标地址是变灰的. "
+
+#~ msgid ""
+#~ "Program '%s' can not run in tunnel, maybe you could run as administrator "
+#~ "mode to retry.\r\n"
+#~ "btw: Is it a advertised shortcut?(a advertised shortcut can not run in "
+#~ "tunnel.)"
+#~ msgstr ""
+#~ "程序 '%s' 不能运行于隧道中, 或许你可以偿试使用管理员模式运行.\r\n"
+#~ "btw: 这是一个Advertised Shortcut么?(一个Advertised Shortcut不能运行于隧道"
+#~ "中.)"
+
+#~ msgid "Import All Browser"
+#~ msgstr "导入浏览器"
+
+#~ msgid ""
+#~ "No Application is currently available in your app list. Why not just put "
+#~ "in your web browser for a jump start?"
+#~ msgstr "你还未添加任何应用程序. "
+
+#~ msgid "No Applications"
+#~ msgstr "没有任何程序"
+
+#~ msgid "Disable Sockscap64 Temporary"
+#~ msgstr "临时禁止Sockscap64"
+
+#~ msgid "You haven't set any Activate Socks Proxy."
+#~ msgstr "你当前还未设置任何活动的SOCKS代理."
+
+#~ msgid "A Url for testing proxy speed"
+#~ msgstr "用于代理测试的网址"
+
+#~ msgid "Are you sure to refresh proxy and ignore all change?"
+#~ msgstr "你确定要刷新代理并忽略所有修改?"
+
+#~ msgid "Can't delete a in use proxy."
+#~ msgstr "不能删除一个正在使用的代理"
+
+#~ msgid "Do you want to import all web browser installed in you system?"
+#~ msgstr "你要导入本机所安装的浏览么?"
+
+#~ msgid "Log in failed."
+#~ msgstr "登入失败."
+
+#~ msgid "Log in failed, Connection Error."
+#~ msgstr "登入失败, 连接错误."
+
+#~ msgid "Log in failed, Data Error."
+#~ msgstr "登入失败, 数据错误."
+
+#~ msgid "Show Purchases Info..."
+#~ msgstr "显示购买信息"
+
+#~ msgid "1080"
+#~ msgstr "1080"

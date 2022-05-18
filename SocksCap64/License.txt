@@ -1,0 +1,83 @@
+File: LICENSE.TXT
+
+SocksCap64
+Copyright (c) 2014-2015 Taro labs All rights reserved.
+
+License Terms and Conditions
+
+The use and redistribution of SocksCap64 (non-commercial version) is subject to the
+following conditions:
+
+1. You may use the Software for non-commercial purposes only, such as
+   academic, research, non-profit, and non-commercial personal use.
+   You may not use the Software in support of any commercial entity or
+   activity.
+
+2. You may not modify, reverse engineer, decompile, disassemble (except
+   to the extent applicable laws specifically prohibit such restriction), 
+   or create derivative works based on the Software.
+
+3. You may not copy and distribute the Software nor any of its
+   derivatives in whole or in part unless:
+  	a) the distribution is limited to your internal organization;
+	b) the copyright notice and this list of conditions appear on
+	   all copies;
+	c) copies are complete and unaltered with all messages intact;
+	d) no charge is associated with the distribution of such
+	   copies; and
+	e) any distribution made by you hereunder is expressly made
+	   subject to an acknowledgment by you and the recipient of
+	   such distribution that Permeo Technologies, Inc. retains
+	   exclusive ownership of the Software including all
+	   intellectual property rights therein, at all times.
+
+4. The Software performs a variety of communications over the Internet
+   as a part of its normal operation.  The Software may periodically
+   and anonymously automatically communicate with SocksCap64's servers 
+   on the Internet to check for updates to the Software, such as patches,
+   enhanced functions, and new versions.Such automatic communications 
+   features do not send any personally identifiable information about you. 
+   By installing and/or using the Software, you consent to the Software
+   communications features.  You are responsible for any telecommunications
+   or other connectivity charges incurred through your use of the Software.
+
+5. The name of Taro. or any of its affiliates shall not be used in any 
+   advertising or publicity pertaining to the use or redistribution of
+   this Software without the prior express, written consent of Taro.
+
+6. THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+   EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE
+   IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE, NON-INFRINGEMENT OR ARISING FROM A COURSE OF DEALING,
+   USAGE, TRADE OR PRACTICE.  Some jurisdictions do not allow the
+   exclusion of implied warranties, so the above disclaimer may not
+   apply to you.
+
+   IN NO EVENT SHALL Taro. OR ANY OF ITS AFFILIATES BE LIABLE FOR 
+   ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY 
+   DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, 
+   WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, 
+   ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF 
+   THIS SOFTWARE.
+
+7. You agree and certify that the Software will not be exported
+   outside the United States except as authorized and as permitted by
+   the laws and regulations of the United States.  If the Software
+   has been rightfully obtained outside of the United States, you
+   agree that you will not re-export the Software, except as permitted
+   by the laws and regulations of the United States and the laws and
+   regulations of the jurisdiction in which you obtained the Software.
+
+8. Notice to Government End Users.
+
+   Use, duplication, or disclosure by the U.S. Government is subject
+   to restrictions as set forth in subparagraph (c) (1) (ii) of the
+   Rights in Technical Data and Computer Software clause in DFARS
+   252.227-7013 or any other successor clause.  Rights for non-DOD
+   U.S. Government Departments and Agencies are as set forth in FAR
+   52.227-19 or any other successor clause.
+
+Unpublished rights reserved under the copyright laws of the United
+States.
+
+	Taro labs.
